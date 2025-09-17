@@ -34,8 +34,11 @@ h1 {
 }
 
 p {
-    font-family: "Inria Serif";
-    font-size: 32px;
+    background-color: #D9D9D9;
+    width: 582px;
+    height: 694px;
+    color: #000;
+    font: 32px "Inria Serif";
 }
 
 footer {
@@ -62,9 +65,19 @@ img {
     width: 100%;
     max-width: 616px;
     margin: 20px 0 0 20px;
+    float: right;
 }
-img {
+img2 {
     width: 100%;
-    max-width: 616px;
+    max-width: 461px;
+    height: 307px;
+    margin: 20px 0 0 20px;
+    float: right;
+}
+
+aside {
+    width: auto;
+    height: auto;
+    float: right;
     margin: 20px 0 0 20px;
 }
