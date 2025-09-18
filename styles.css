@@ -65,14 +65,13 @@ main {
 
 img {
     width: 100%;
-    max-width: 616px;
+    max-width: 461px;
     margin: 20px 0 0 20px;
     float: right;
 }
 img2 {
     width: 100%;
     max-width: 461px;
-    height: 307px;
     margin: 20px 0 0 20px;
     float: right;
 }
@@ -82,4 +81,5 @@ aside {
     height: auto;
     float: right;
     margin: 20px 0 0 20px;
+    margin-top: auto;
 }
